@@ -108,7 +108,7 @@ cd web
 # Install dependencies
 npm install
 
-# Optional: Run seed script to populate test users
+# Run seed script to populate test users
 node seed-auth.js
 
 # Start development server
