@@ -173,13 +173,15 @@ python app.py
 
 - 📦 **Inventory Management** - Item tracking, ABC Analysis, EOQ Calculator
 - 🏭 **Warehouse Management** - Space utilization, Labor productivity
+- ⚠️ **Risk Management** - Risk Heat Map, Supply Chain Risk Register
+- 🏪 **Vendor Management** - Supplier KPI Dashboard, Score Calculator
 - 📊 **Forecast** - Shared access with other roles
 
 **PROCUREMENT_RISK_MANAGER** has access to:
 
 - ⚠️ **Risk Management** - Risk Heat Map, Supply Chain Risk Register
 - 🏪 **Vendor Management** - Supplier KPI Dashboard, Score Calculator
-- 📊 **Forecast** - Shared access with other roles
+
 
 ### Seed/Reset Test Users
 
